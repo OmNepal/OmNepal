@@ -60,22 +60,30 @@
 
 ### 🏥 [PreVizAI — AI Clinical Copilot](https://github.com/OmNepal/PreVizAI)
 Built during **HackGT 2025**, PreVizAI is an **AI-powered clinical assistant** that integrates **Whisper transcription** and **EMR data** to help doctors automate documentation and derive diagnostic insights.  
-🧠 Contributed to **AI model integration**, **Next.js dashboard**, and **Neo4j data graph** design.  
-📊 Reduced average documentation time by **36 minutes per session**.  
+🧠 Contributed to **AI model integration**, **Next.js dashboard**, and **Neo4j graph data visualization**.  
+📊 Reduced average documentation time by **36 minutes per session**.
 
 <p align="center">
-  <img src="https://github.com/OmNepal/PreVizAI/blob/main/demo.png" alt="PreVizAI Demo" width="600"/>
+  <img src="https://github.com/OmNepal/PreVizAI/blob/main/PV.jpg" alt="PreVizAI Interface" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/OmNepal/PreVizAI/blob/main/PV2.jpg" alt="PreVizAI Dashboard" width="600"/>
 </p>
 
 ---
 
 ### 🌆 [Boston Daddy — Smart City Infrastructure Platform](https://github.com/jhapappu7165/HackHarvard2025)
-Developed during **HackHarvard 2025**, Boston Daddy is a **smart city analytics platform** that integrates **energy, traffic, and weather data** to generate **AI-driven sustainability insights**.  
-⚙️ Worked on **backend APIs**, **FastAPI data processing**, and **Supabase integration** for real-time analytics.  
-🗺️ Implemented **Mapbox** visualizations to render live urban data dashboards.  
+Developed during **HackHarvard 2025**, Boston Daddy is a **smart city analytics platform** that merges **energy, traffic, and weather data** to provide **AI-driven sustainability insights**.  
+⚙️ Contributed to **backend APIs**, **FastAPI data processing**, and **Supabase integration** for real-time city analytics.  
+🗺️ Implemented **Mapbox visualizations** to render live urban data dashboards and insights.
 
 <p align="center">
-  <img src="https://github.com/jhapappu7165/HackHarvard2025/blob/main/demo.png" alt="Boston Daddy Dashboard" width="600"/>
+  <img src="https://github.com/jhapappu7165/HackHarvard2025/blob/main/BD.jpg" alt="Boston Daddy Platform" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/jhapappu7165/HackHarvard2025/blob/main/BD2.jpg" alt="Boston Daddy Dashboard" width="600"/>
 </p>
 
 ---
@@ -83,13 +91,14 @@ Developed during **HackHarvard 2025**, Boston Daddy is a **smart city analytics 
 ### 📚 [StudySync — Cross-Platform Productivity App](#)
 A cross-platform productivity app built with **.NET MAUI, C#, SQLite, and Azure**.  
 🚀 Led a team of 3 developers to create a secure, cloud-integrated app with **calendar sync**, **authentication**, and **storage**.  
-📈 Conducted user testing with 20+ participants, improving usability from **3.7 → 4.6/5** and preparing beta deployment on Azure.  
+📈 Conducted user testing with 20+ participants, improving usability from **3.7 → 4.6/5** and preparing beta deployment on Azure.
 
 <p align="center">
   <img src="https://github.com/OmNepal/StudySync/blob/main/demo.png" alt="StudySync App" width="600"/>
 </p>
 
 ---
+
 
 
 ### 💼 Experience  
