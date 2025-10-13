@@ -17,7 +17,7 @@
 ### 🧠 About Me  
 - 🎓 **B.S. Computer Science (4.0 GPA)** — University of Southern Mississippi  
 - 💡 Passionate about **AI-driven software**, **secure systems**, and **full-stack development**  
-- 🤝 I love combining creativity with engineering — whether it’s a clinical AI copilot, a smart city platform, or mobile app security research  
+- 🤝 I love combining creativity with engineering — whether it’s a clinical AI copilot, a smart city platform, or machine learning research  
 - 🌱 Currently exploring **LangGraph**, **RAG**, and **Agentic AI**  
 - 🧩 Motto: *“Create an impact through technology”*  
 
