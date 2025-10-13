@@ -88,18 +88,6 @@ Developed during **HackHarvard 2025**, Boston Daddy is a **smart city analytics 
 
 ---
 
-### 📚 [StudySync — Cross-Platform Productivity App](#)
-A cross-platform productivity app built with **.NET MAUI, C#, SQLite, and Azure**.  
-🚀 Led a team of 3 developers to create a secure, cloud-integrated app with **calendar sync**, **authentication**, and **storage**.  
-📈 Conducted user testing with 20+ participants, improving usability from **3.7 → 4.6/5** and preparing beta deployment on Azure.
-
-<p align="center">
-  <img src="https://github.com/OmNepal/StudySync/blob/main/demo.png" alt="StudySync App" width="600"/>
-</p>
-
----
-
-
 
 ### 💼 Experience  
 
