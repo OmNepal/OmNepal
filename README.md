@@ -56,28 +56,41 @@
 
 ---
 
-### 🚀 Featured Projects  
+## 🚀 Featured Projects  
 
-<a href="https://github.com/jhapappu7165/HackHarvard2025">
-  <img align="left" width="100" height="100" src="https://github.com/github/explore/raw/main/topics/mapbox/mapbox.png" alt="Boston Daddy">
-</a>
+### 🏥 [PreVizAI — AI Clinical Copilot](https://github.com/OmNepal/PreVizAI)
+Built during **HackGT 2025**, PreVizAI is an **AI-powered clinical assistant** that integrates **Whisper transcription** and **EMR data** to help doctors automate documentation and derive diagnostic insights.  
+🧠 Contributed to **AI model integration**, **Next.js dashboard**, and **Neo4j data graph** design.  
+📊 Reduced average documentation time by **36 minutes per session**.  
 
-#### 🌆 [Boston Daddy — Smart City Infrastructure Platform](https://github.com/jhapappu7165/HackHarvard2025)
-> **HackHarvard 2025 Project**  
-> Built a **smart city platform** integrating energy, traffic, and weather data for **AI-driven sustainability insights**.  
-> 🧠 Contributed to **backend development** using **FastAPI + Supabase**, with real-time visualizations via **Mapbox**.
-
-<br clear="left"/>
-
-#### 🌆 **[Boston Daddy](https://github.com/OmNepal/PreVizAI)** — *Smart City Infrastructure Platform*  
-🌐 *React, TypeScript, FastAPI, Supabase, Gemini AI, Mapbox*  
-Developed a smart city platform that integrates energy, traffic, and weather data for AI-driven sustainability insights.  
-
-#### 📚 **[StudySync](#)** — *Cross-Platform Productivity App*  
-💻 *.NET MAUI, C#, SQLite, Azure*  
-Led a team of 3 to build a productivity app with secure auth, calendar sync, and cloud storage — improved usability rating from **3.7 → 4.6/5**.  
+<p align="center">
+  <img src="https://github.com/OmNepal/PreVizAI/blob/main/demo.png" alt="PreVizAI Demo" width="600"/>
+</p>
 
 ---
+
+### 🌆 [Boston Daddy — Smart City Infrastructure Platform](https://github.com/jhapappu7165/HackHarvard2025)
+Developed during **HackHarvard 2025**, Boston Daddy is a **smart city analytics platform** that integrates **energy, traffic, and weather data** to generate **AI-driven sustainability insights**.  
+⚙️ Worked on **backend APIs**, **FastAPI data processing**, and **Supabase integration** for real-time analytics.  
+🗺️ Implemented **Mapbox** visualizations to render live urban data dashboards.  
+
+<p align="center">
+  <img src="https://github.com/jhapappu7165/HackHarvard2025/blob/main/demo.png" alt="Boston Daddy Dashboard" width="600"/>
+</p>
+
+---
+
+### 📚 [StudySync — Cross-Platform Productivity App](#)
+A cross-platform productivity app built with **.NET MAUI, C#, SQLite, and Azure**.  
+🚀 Led a team of 3 developers to create a secure, cloud-integrated app with **calendar sync**, **authentication**, and **storage**.  
+📈 Conducted user testing with 20+ participants, improving usability from **3.7 → 4.6/5** and preparing beta deployment on Azure.  
+
+<p align="center">
+  <img src="https://github.com/OmNepal/StudySync/blob/main/demo.png" alt="StudySync App" width="600"/>
+</p>
+
+---
+
 
 ### 💼 Experience  
 
