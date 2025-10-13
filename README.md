@@ -3,7 +3,7 @@
 <h1 align="center">Hey there, I'm Om Nepal 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Software+Developer;AI+Engineer;Problem+Solver" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=1500&pause=700&color=36BCF7&center=true&vCenter=true&width=450&lines=Software+Developer;AI+Engineer;Problem+Solver" alt="Typing Animation">
 </p>
 
 <p align="center">
@@ -11,6 +11,7 @@
 </p>
 
 ---
+
 
 
 ### 🧠 About Me  
