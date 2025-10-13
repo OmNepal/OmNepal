@@ -58,11 +58,11 @@
 
 ### 🚀 Featured Projects  
 
-#### 🏥 **[PreVizAI](#)** — *AI Clinical Copilot*  
+#### 🏥 **[PreVizAI](https://github.com/jhapappu7165/HackHarvard2025)** — *AI Clinical Copilot*  
 🧠 *OpenAI API, Next.js, Python, Tailwind, Neo4j, Whisper*  
 Built an AI-powered clinical assistant integrating speech-to-text and EMR data — reducing documentation time by **36 minutes per session**.  
 
-#### 🌆 **[Boston Daddy](#)** — *Smart City Infrastructure Platform*  
+#### 🌆 **[Boston Daddy](https://github.com/OmNepal/PreVizAI)** — *Smart City Infrastructure Platform*  
 🌐 *React, TypeScript, FastAPI, Supabase, Gemini AI, Mapbox*  
 Developed a smart city platform that integrates energy, traffic, and weather data for AI-driven sustainability insights.  
 
