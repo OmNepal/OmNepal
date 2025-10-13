@@ -3,11 +3,15 @@
 <h1 align="center">Hey there, I'm Om Nepal 👋</h1>
 
 <p align="center">
-  <b>AI & Software Engineer | CS Junior @ University of Southern Mississippi</b><br/>
-  Building intelligent, elegant systems that turn complex problems into simple, impactful solutions 🚀
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Software+Developer;AI+Engineer;Problem+Solver" alt="Typing Animation">
+</p>
+
+<p align="center">
+  <b>CS Junior @ University of Southern Mississippi</b>
 </p>
 
 ---
+
 
 ### 🧠 About Me  
 - 🎓 **B.S. Computer Science (4.0 GPA)** — University of Southern Mississippi  
