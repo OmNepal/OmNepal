@@ -134,4 +134,9 @@ Developed during **HackHarvard 2025**, Boston Daddy is a **smart city analytics 
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmNepal&theme=tokyonight" height="165">
+</p>
+
+
 ⭐ *Thanks for stopping by! I’m always open to connecting, learning, and building something impactful with AI & software.*  
