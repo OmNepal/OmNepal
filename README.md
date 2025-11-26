@@ -18,7 +18,7 @@
 - 🎓 **B.S. Computer Science (4.0 GPA)** — University of Southern Mississippi  
 - 💡 Passionate about **Software Dev**, **AI-driven systems**, and **problem-solving**  
 - 🤝 I love combining my creativity and engineering to create real world impacts in healthcare, business, research 
-- 🌱 Currently exploring **LangGraph**, **RAG**, and **Agentic AI**  
+- 🌱 Currently exploring **Agentic AI**, **AI Automation**. 
 - 🧩 Motto: *“Create an impact through technology”*  
 
 ---
@@ -101,7 +101,7 @@ Developed during **HackHarvard 2025**, Boston Daddy is a **smart city analytics 
 
 ### 💼 Experience  
 
-**Undergraduate Research Assistant — Cyber Innovation Lab (2025–Present)**  
+**Undergraduate Research Assistant — University of Southern Mississippi(Present)**  
 > Developing an AI-powered mobile app security framework automating static & dynamic vulnerability analysis.  
 > Designed an ML model detecting obfuscated apps with **92% accuracy**.
 
@@ -109,13 +109,14 @@ Developed during **HackHarvard 2025**, Boston Daddy is a **smart city analytics 
 > Built & deployed a full-stack ASP.NET Core + Entity Framework app, replacing 10+ spreadsheets.  
 > Optimized REST APIs for what-if decision modeling, reducing response latency by **30%**.
 
-**Full Stack Developer — NextEdge Solutions, Nepal (2023)**  
+**Full Stack Developer — NextEdge Solutions (2023)**  
 > Built task management platform for 150+ users using Vue.js, Node.js & PostgreSQL.  
 > Integrated JWT auth & Redis caching; improved performance by **40%**.
 
 ---
 
 ### 🏅 Highlights  
+- 🏆 **HackPrinceton 2025** - Won the best use of Snowflake AI API
 - 🏆 **Nepal–US AI Hackathon** — Recognized for innovative sports analytics RAG project  
 - 💬 Strong communicator and collaborator (Desk Assistant @ USM)  
 - 🧩 4× **President’s List** | **USM Academic Excellence Scholar**
