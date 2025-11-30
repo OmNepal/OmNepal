@@ -70,7 +70,7 @@
 📊 Estimated to reduce average time for founders by over **45%**.
 
 <p align="center">
-  <img src="https://github.com/OmNepal/HackPrinceton/blob/master/FA.png" alt="Foundaura Main Page" width="600"/>
+  <img src="https://github.com/OmNepal/HackPrinceton/blob/main/FA.png" alt="Foundaura Main Page" width="600"/>
 </p>
 
 ---
