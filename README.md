@@ -17,7 +17,7 @@
 ### 🧠 About Me  
 - 🎓 **B.S. Computer Science (4.0 GPA)** — University of Southern Mississippi  
 - 💡 Passionate about **Software Dev**, **AI-driven systems**, and **problem-solving**  
-- 🤝 I love combining my creativity and engineering to create real world impacts in healthcare, business, research 
+- 🤝 I love attending hackathons because I get to combine my creativity and engineering to create real world impact. 
 - 🌱 Currently exploring **Agentic AI**, **AI Automation**. 
 - 🧩 Motto: *“Create an impact through technology”*  
 
@@ -62,6 +62,7 @@
 ---
 
 ## 🚀 Featured Projects  
+
 
 ### 🏥 [PreVizAI — AI Clinical Copilot](https://github.com/OmNepal/PreVizAI)
 Built during **HackGT 2025**, PreVizAI is an **AI-powered clinical assistant** that integrates **Whisper transcription** and **EMR data** to help doctors automate documentation and derive diagnostic insights.  
