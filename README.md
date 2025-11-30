@@ -113,10 +113,10 @@ Developed during **HackHarvard 2025**, Boston Daddy is a **smart city analytics 
 
 **Software Development Intern — Optimal Answers LLC (2025)**  
 > Built & deployed a full-stack ASP.NET Core + Entity Framework app, replacing 10+ spreadsheets.  
-> Optimized REST APIs for what-if decision modeling, reducing response latency by **30%**.
+> Optimized REST APIs by reducing redundant database operations, improving response latency by **30%**.
 
 **Full Stack Developer — NextEdge Solutions (2023)**  
-> Built task management platform for 150+ users using Vue.js, Node.js & PostgreSQL.  
+> Built task management platform for 150+ users using Angular, Node.js & PostgreSQL.  
 > Integrated JWT auth & Redis caching; improved performance by **40%**.
 
 ---
