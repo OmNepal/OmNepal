@@ -81,12 +81,6 @@ Built during **HackGT 2025**, PreVizAI is an **AI-powered clinical assistant** t
 📊 Reduced average documentation time by **36 minutes per session**.
 
 <p align="center">
-  <img src="https://github.com/OmNepal/PreVizAI/blob/master/PV.jpg" alt="PreVizAI Interface" width="600"/>
-</p>
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-<p align="center">
   <img src="https://github.com/OmNepal/PreVizAI/blob/master/PV2.jpg" alt="PreVizAI Dashboard" width="600"/>
 </p>
 
