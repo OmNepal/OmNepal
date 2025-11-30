@@ -70,13 +70,7 @@
 📊 Estimated to reduce average time for founders by over **45%**.
 
 <p align="center">
-  <img src="https://github.com/OmNepal/PreVizAI/blob/master/PV.jpg" alt="PreVizAI Interface" width="600"/>
-</p>
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-<p align="center">
-  <img src="https://github.com/OmNepal/PreVizAI/blob/master/PV2.jpg" alt="PreVizAI Dashboard" width="600"/>
+  <img src="https://github.com/OmNepal/PreVizAI/blob/master/FA.png" alt="Foundaura Main Page" width="600"/>
 </p>
 
 ---
