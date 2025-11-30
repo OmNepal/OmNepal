@@ -62,12 +62,12 @@
 
 ## 🚀 Featured Projects  
 
-### 🏥 [Foundaura: Legal & Financial AI Agent for founders](https://github.com/OmNepal/HackPrinceton)
-**Winning project for Best use of Snowflake AI API at Hack Princeton 2025**. 
+### 🏥 [Foundaura: Legal & Financial AI Agent for founders](https://github.com/OmNepal/HackPrinceton) 
+[**Winning project for Best use of Snowflake AI API at Hack Princeton 2025**](https://devpost.com/software/neofoundr?_gl=1*qn3f9z*_gcl_au*Mzg3NTAwMTg4LjE3NTc3OTA1NTA.*_ga*MjA3ODE5NTYwMi4xNzU3NzkwNTUw*_ga_0YHJK3Y10M*czE3NjQ0Nzg4MDIkbzU2JGcxJHQxNzY0NDc5NDIwJGo1MiRsMCRoMA..). 
 
-➡️ Foundaura is a **multi agentic AI system** that helps turn ideas into startup by providing informed guidance on legal and financial processes. It uses Snowflake for agent orchestration and speech-to-text, Dedalus labs for the agents and React FastAPI for frontend and backend.  
-🧠 **Led my team** and worked on the **FastAPI backend** and **complete Snowflake AI API integration** for agent orchestration and voice-to-text.   
-📊 Estimated to reduce average time for founders in legal and financial processes by over **45%**.
+➡️ Foundaura is a **multi agentic AI system** that helps turn ideas into startup by providing informed guidance on legal and financial processes. It uses Snowflake for agent orchestration and speech-to-text, Dedalus labs for the AI agents and React FastAPI for frontend backend.  
+🧠 **Led my team** and worked on the **FastAPI backend** and **complete Snowflake AI API integration**.   
+📊 Estimated to reduce average time for founders by over **45%**.
 
 <p align="center">
   <img src="https://github.com/OmNepal/PreVizAI/blob/master/PV.jpg" alt="PreVizAI Interface" width="600"/>
