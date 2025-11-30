@@ -17,9 +17,8 @@
 ### 🧠 About Me  
 - 🎓 **B.S. Computer Science (4.0 GPA)** — University of Southern Mississippi  
 - 💡 Passionate about **Software Dev**, **AI-driven systems**, and **problem-solving**  
-- 🤝 I love attending hackathons because I get to combine my creativity and engineering to create real world impact. 
-- 🌱 Currently exploring **Agentic AI**, **AI Automation**. 
-- 🧩 Motto: *“Create an impact through technology”*  
+- 🤝 I love attending hackathons. I enjoy collaborating with others and combining my creativity and engineering to create solutions for real world problems. 
+- 🌱 Currently exploring **Agentic AI**, **AI Automation**, **Cloud Infrastructure**. 
 
 ---
 
